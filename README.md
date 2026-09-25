@@ -86,36 +86,39 @@ Then put the back lid on and screw the holes in the inserts till tight so that t
 AND UR OLED KEYCHAIN IS READY!!!
 <img width="577" height="490" alt="image" src="https://github.com/user-attachments/assets/b26fd0a5-bce0-4752-92bf-40882f91e930" />
 
-
-# bill of materials
-
 # BOM
 
-| # | Component | Qty | Price (INR) | Price (USD) | Link |
-|---:|---|---:|---:|---:|---|
-| 1 | 1.3" I2C OLED Display — White | 1 | ₹319 | $3.32 | [Robu](https://robu.in/product/1-3-inch-i2c-oled-display-module-4-pin-white/) |
-| 2 | ESP32-C3 Development Board with Soldering | 1 | ₹279 | $2.90 | [Robu](https://robu.in/product/esp32-c3-development-board-with-soldering/) |
-| 3 | 1.5–4.2V → 5V Boost Converter | 1 | ₹119 | $1.24 | [Robu](https://robu.in/product/1-5v-1-8v-2-5v-3v-3-3v-3-7v-4-2v-to-5v-boost-voltage-conversion-module-with-soldering/) |
-| 4 | TP4056 1A Li-Ion Charger + Protection | 1 | ₹19 | $0.20 | [Robu](https://robu.in/product/tp4056-1a-lipo-battery-charging-board-micro-usb-with-current-protection/) |
-| 5 | WLY52535 3.7V 450mAh 1S LiPo | 1 | ₹299 | $3.11 | [Robu](https://robu.in/product/450mah-pcm-protected-micro-li-po-battery/) |
-| 6 | 3×7cm Double-Sided Prototype PCB | 1 | ₹69 | $0.72 | [Robu](https://robu.in/product/3-x-7-cm-universal-pcb-prototype-board-double-side-2pcs/) |
-| 7 | 1×40 Pin 2.54mm Long Female Header | 1 | ₹98 | $1.02 | [Robu](https://robu.in/product/1x40-pin-2-54mm-straight-long-female-strip-connector/) |
-| 8 | Noel 60/40 Solder Wire 1mm 50g | 1 | ₹309 | $3.22 | [Robu](https://robu.in/product/solder-wire-1-00mm-50gm/) |
-| 9 | BAKON 900M-T-I Replacement Soldering Tip | 1 | ₹115 | $1.20 | [Robu](https://robu.in/product/bakon-soldering-iron-tip-900m-t-i/) |
-| 10 | Multitec 150B Wire Stripper & Cutter | 1 | ₹60 | $0.62 | [Robu](https://robu.in/) |
-| 11 | 24 AWG Solid-Core PVC Wire — Red | 2m | ₹20 | $0.21 | [Robu](https://robu.in/) |
-| 12 | 24 AWG Solid-Core PVC Wire — Black | 2m | ₹20 | $0.21 | [Robu](https://robu.in/) |
-| 13 | 24 AWG Solid-Core PVC Wire — White | 2m | ₹20 | $0.21 | [Robu](https://robu.in/) |
-| 14 | 2mm Heat-Shrink Sleeve — Black | 2 | ₹20 | $0.21 | [Robu](https://robu.in/) |
-| 15 | 2mm Heat-Shrink Sleeve — Red | 2 | ₹24 | $0.25 | [Robu](https://robu.in/) |
-| 16 | 3mm Heat-Shrink Sleeve — Black | 2 | ₹12 | $0.12 | [Robu](https://robu.in/) |
-| 17 | 3mm Heat-Shrink Sleeve — Red | 2 | ₹16 | $0.17 | [Robu](https://robu.in/) |
-| 18 | 4mm SPDT 1P2T Slide Switch | 4 | ₹11.40 | $0.12 | [Robu](https://robu.in/) |
-| 19 | Insulating Tape — Yellow | 1 | ₹23 | $0.24 | [Robu](https://robu.in/) |
-| 20 | M2 × 5mm Phillips Pan-Head SS304 Screw | 10 | ₹20 | $0.21 | [OnlyScrews](https://onlyscrews.in/collections/m2-screws) |
-| 21 | M2 × 3mm Brass Threaded Insert | 10 | ₹18 | $0.19 | [OnlyScrews](https://onlyscrews.in/products/m2-x-3mm-brass-threaded-inserts) |
-| 22 | 3D-Printed Case | 1 | ₹0 | $0.00 | Self-made |
-| | **Total** | | **₹1,890.40** | **$19.68** | |
+| # | Item | Specification / Color | Qty | Price (₹) | Price (USD) |
+|---:|---|---|---:|---:|---:|
+| 1 | [1.3" I2C OLED Display](https://robu.in/product/1-3-inch-i2c-oled-display-module-4-pin-white/) | White | 1 | ₹319.00 | $3.32 |
+| 2 | [ESP32-C3 Development Board](https://robu.in/product/esp32-c3-development-board-with-soldering/) | With soldering | 1 | ₹279.00 | $2.91 |
+| 3 | [Boost Converter](https://robu.in/product/1-5v-1-8v-2-5v-3v-3-3v-3-7v-4-2v-to-5v-boost-voltage-conversion-module-with-soldering/) | 1.5–4.2V → 5V | 1 | ₹119.00 | $1.24 |
+| 4 | [TP4056 Charger](https://robu.in/product/tp4056-1a-lipo-battery-charging-board-micro-usb-with-current-protection/) | 1A Li-Ion Charger + Protection | 1 | ₹19.00 | $0.20 |
+| 5 | [WLY52535 LiPo Battery](https://robu.in/product/450mah-pcm-protected-micro-li-po-battery/) | 3.7V 450mAh, 1S | 1 | ₹299.00 | $3.11 |
+| 6 | [Prototype PCB](https://robu.in/product/3-x-7-cm-universal-pcb-prototype-board-double-side-2pcs/) | 3×7cm, Double-Sided | 1 | ₹69.00 | $0.72 |
+| 7 | [Long Female Header](https://robu.in/product/1x40-pin-2-54mm-straight-long-female-strip-connector/) | 1×40 Pin, 2.54mm | 1 | ₹98.00 | $1.02 |
+| 8 | [Noel Solder Wire](https://robu.in/product/solder-wire-1-00mm-50gm/) | 60/40, 1mm, 50g | 1 | ₹309.00 | $3.22 |
+| 9 | [BAKON Soldering Iron Tip](https://robu.in/product/bakon-soldering-iron-tip-900m-t-i/) | 900M-T-I | 1 | ₹115.00 | $1.20 |
+| 10 | [Multitec Wire Stripper & Cutter](https://robu.in/product/multitec-150b-wire-stripper-and-cutter/) | 150B | 1 | ₹60.00 | $0.62 |
+| 11 | [24 AWG Wire](https://robu.in/product/24-awg-solid-core-insulated-wire-pvc-red/) | Solid Core PVC, Red | 2m | ₹20.00 | $0.21 |
+| 12 | [24 AWG Wire](https://robu.in/product/24-awg-solid-core-insulated-wire-pvc/) | Solid Core PVC, Black | 2m | ₹20.00 | $0.21 |
+| 13 | 24 AWG Wire | Solid Core PVC, White | 2m | ₹20.00 | $0.21 |
+| 14 | [2mm Heat-Shrink](https://robu.in/product/heat-shrink-sleeve-2mm-black-industrial-grade-woer-hst/) | Black | 2 | ₹20.00 | $0.21 |
+| 15 | [2mm Heat-Shrink](https://robu.in/product/heat-shrink-sleeve-2mm-red-industrial-grade-woer-hst/) | Red | 2 | ₹24.00 | $0.25 |
+| 16 | [3mm Heat-Shrink](https://robu.in/product/heat-shrink-sleeve-3mm-black-industrial-grade-woer-hst/) | Black | 2 | ₹12.00 | $0.12 |
+| 17 | [3mm Heat-Shrink](https://robu.in/product/heat-shrink-sleeve-3mm-red-industrial-grade-woer-hst/) | Red | 2 | ₹16.00 | $0.17 |
+| 18 | [4mm SPDT 1P2T Slide Switch](https://robu.in/product/4mm-spdt-1p2t-slide-switch-pack-of-10/) | Slide Switch | 4 | ₹11.40 | $0.12 |
+| 19 | [Insulating Tape](https://robu.in/product/insulating-tape-yellow%ef%bc%89/) | Yellow | 1 | ₹23.00 | $0.24 |
+| 20 | [M2 × 5mm Phillips Screw](https://onlyscrews.in/collections/m2-screws) | SS304 | 10 | ₹20.00 | $0.21 |
+| 21 | [M2 × 3mm Brass Threaded Insert](https://onlyscrews.in/products/m2-x-3mm-brass-threaded-inserts) | Brass | 10 | ₹18.00 | $0.19 |
+| 22 | [Curved Tweezers ESD-15](https://robu.in/product/curved-tweezers-esd-15/) | ESD-15 | 1 | ₹35.00 | $0.36 |
+| 23 | 3D-Printed Case | Self-made | 1 | ₹0.00 | $0.00 |
+
+## Total
+
+**₹1,925.40 / $20.04 USD**
+
+
 
 ROBU HAS A POLICY OF ATLEAST BUYING 10 RUPEES WORTH OF THE PRODUCT thats why i had to buy extra quantities for some like the heat shrink tubes etc
 
