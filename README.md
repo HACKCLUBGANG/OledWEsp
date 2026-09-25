@@ -8,6 +8,7 @@ It uses a 1.3 inch oled display which has a cute kuromi animation
 I made it to give it to my sister as a gift!
 Might add wifi later
 Made in Forge - forge.hackclub.com Tier3 Project.
+<img width="577" height="490" alt="image" src="https://github.com/user-attachments/assets/b26fd0a5-bce0-4752-92bf-40882f91e930" />
 
 # CASE
 
@@ -103,26 +104,22 @@ AND UR OLED KEYCHAIN IS READY!!!
 | 11 | Multitec Wire Stripper & Cutter | 150B | 1 | ₹60.00 | [Robu](https://robu.in/product/multitec-150b-wire-stripper-and-cutter/) |
 | 12 | 24 AWG Wire | Solid Core PVC, Red | 2m | ₹20.00 | [Robu](https://robu.in/product/24-awg-solid-core-insulated-wire-pvc-red/) |
 | 13 | 24 AWG Wire | Solid Core PVC, Black | 2m | ₹20.00 | [Robu](https://robu.in/product/24-awg-solid-core-insulated-wire-pvc/) |
-| 14 | 24 AWG Wire | Solid Core PVC, White | 2m | ₹20.00 | — |
-| 15 | 2mm Heat-Shrink | Black | 2 | ₹20.00 | [Robu](https://robu.in/product/heat-shrink-sleeve-2mm-black-industrial-grade-woer-hst/) |
-| 16 | 2mm Heat-Shrink | Red | 2 | ₹24.00 | [Robu](https://robu.in/product/heat-shrink-sleeve-2mm-red-industrial-grade-woer-hst/) |
-| 17 | 3mm Heat-Shrink | Black | 2 | ₹12.00 | [Robu](https://robu.in/product/heat-shrink-sleeve-3mm-black-industrial-grade-woer-hst/) |
-| 18 | 3mm Heat-Shrink | Red | 2 | ₹16.00 | [Robu](https://robu.in/product/heat-shrink-sleeve-3mm-red-industrial-grade-woer-hst/) |
-| 19 | 4mm SPDT 1P2T Slide Switch | — | 4 | ₹11.40 | [Robu](https://robu.in/product/4mm-spdt-1p2t-slide-switch-pack-of-10/) |
-| 20 | Insulating Tape | Yellow | 1 | ₹23.00 | [Robu](https://robu.in/product/insulating-tape-yellow%ef%bc%89/) |
-| 21 | Curved Tweezers | ESD-15 | 1 | ₹35.00 | [Robu](https://robu.in/product/curved-tweezers-esd-15/) |
-| 22 | M2 × 3mm Brass Threaded Insert | Brass | 10 | ₹18.00 | [OnlyScrews](https://onlyscrews.in/products/m2-x-3mm-brass-threaded-inserts) |
-| 23 | Micro USB Cable | 50cm, for TP4056 | 1 | ₹39.00 | [Robu](https://robu.in/product/50-cm-micro-usb-cable/) |
-| 24 | USB Type-C Cable | 1m, Fast Charging/Data Transfer, for ESP32-C3 | 1 | ₹87.00 | [Robu](https://robu.in/product/type-c-usb-cable/) |
-| 25 | 3D-Printed Case | Self-made | 1 | ₹0.00 | — |
-| 26 | M2 × 5mm Phillips Screw | SS304 | 10 | ₹20.00 | [OnlyScrews](https://onlyscrews.in/collections/m2-screws) |
+| 14 | 2mm Heat-Shrink | Black | 2 | ₹20.00 | [Robu](https://robu.in/product/heat-shrink-sleeve-2mm-black-industrial-grade-woer-hst/) |
+| 15 | 2mm Heat-Shrink | Red | 2 | ₹24.00 | [Robu](https://robu.in/product/heat-shrink-sleeve-2mm-red-industrial-grade-woer-hst/) |
+| 16 | 3mm Heat-Shrink | Black | 2 | ₹12.00 | [Robu](https://robu.in/product/heat-shrink-sleeve-3mm-black-industrial-grade-woer-hst/) |
+| 17 | 3mm Heat-Shrink | Red | 2 | ₹16.00 | [Robu](https://robu.in/product/heat-shrink-sleeve-3mm-red-industrial-grade-woer-hst/) |
+| 18 | 4mm SPDT 1P2T Slide Switch | — | 4 | ₹11.40 | [Robu](https://robu.in/product/4mm-spdt-1p2t-slide-switch-pack-of-10/) |
+| 19 | Insulating Tape | Yellow | 1 | ₹23.00 | [Robu](https://robu.in/product/insulating-tape-yellow%ef%bc%89/) |
+| 20 | Curved Tweezers | ESD-15 | 1 | ₹35.00 | [Robu](https://robu.in/product/curved-tweezers-esd-15/) |
+| 21 | M2 × 3mm Brass Threaded Insert | Brass | 10 | ₹18.00 | [OnlyScrews](https://onlyscrews.in/products/m2-x-3mm-brass-threaded-inserts) |
+| 22 | Micro USB Cable | 50cm, for TP4056 | 1 | ₹39.00 | [Robu](https://robu.in/product/50-cm-micro-usb-cable/) |
+| 23 | USB Type-C Cable | 1m, Fast Charging/Data Transfer | 1 | ₹87.00 | [Robu](https://robu.in/product/type-c-usb-cable/) |
+| 24 | 3D-Printed Case | Self-made | 1 | ₹0.00 | — |
+| 25 | M2 × 5mm Phillips Screw | SS304 | 10 | ₹20.00 | [OnlyScrews](https://onlyscrews.in/collections/m2-screws) |
 
-**Total: ₹1,945.40**
+**Total: ₹1,925.40**
 
 > Robu minimum order value: ₹10 per item.
-
-
-
 ROBU HAS A POLICY OF ATLEAST BUYING 10 RUPEES WORTH OF THE PRODUCT thats why i had to buy extra quantities for some like the heat shrink tubes etc
 
 
@@ -133,4 +130,12 @@ ONLY SCREWS
 
 ROBU.IN
 
+<img width="982" height="549" alt="image" src="https://github.com/user-attachments/assets/fd6c3a8d-8678-4e1e-97cf-1681d4c317ee" />
+<img width="1037" height="597" alt="{0B7D5FEC-286B-403A-B581-89F57651FF1B}" src="https://github.com/user-attachments/assets/1ee52e41-245c-48ad-982e-e0e17ce1eeb6" />
+<img width="646" height="591" alt="image" src="https://github.com/user-attachments/assets/526c48b7-fa26-4f10-a90f-3497bd6872e1" />
+<img width="648" height="537" alt="{460EA0BD-C1D5-4DEF-9230-A2A4932FEC1B}" src="https://github.com/user-attachments/assets/0fee2c08-54c0-458d-8941-1599e4278f8b" />
+<img width="653" height="559" alt="image" src="https://github.com/user-attachments/assets/83da2f1d-9c5c-4c2a-9043-5d3a99df82bc" />
+<img width="651" height="352" alt="image" src="https://github.com/user-attachments/assets/1acb26a2-6b92-439a-b61c-371b89aa3ee2" />
 
+# CREDITS
+CREDITS TO https://www.oledanimationmaker.com/ for convering a mp4 file to oled code for this project.
