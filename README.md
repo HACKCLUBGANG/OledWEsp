@@ -5,3 +5,4 @@ OledWEsp stands for An Oled display with Esp32-c3 all put in a compact case to m
 It has a esp32-c3-super-mini which was the smallest devboard i could find for a cheap price. 
 It uses a 450mah Battery with a tp4056 charging module
 It uses a 1.3 inch oled display which has a cute kuromi animation
+
